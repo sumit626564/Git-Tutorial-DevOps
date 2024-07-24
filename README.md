@@ -1,2 +1,2 @@
-# Git-Tutorial-DevOps
-AI-Assistant- Alex: Your Personal AI Assistant
+# AI-Assistant- Alex: Your Personal AI Assistant
+
