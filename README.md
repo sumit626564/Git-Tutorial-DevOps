@@ -1,3 +1,2 @@
 # Git-Tutorial-DevOps
-This is my first Git Repository
-Author - Sumit Singh Rajput
+AI-Assistant- Alex: Your Personal AI Assistant
